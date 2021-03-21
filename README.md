@@ -1,10 +1,8 @@
 # Unit 5 - Financial Planning
 
-![Financial Planner](Images/financial-planner.png)
-
 ## Background
 
-You decided to start a FinTech consultancy firm, and you want to make a difference by working on projects with high social impact in local communities. You just won your first contract to help one of the biggest credit unions in your area. They want to create a tool that helps their members enhance their financial health. The Chief Technology Officer (CTO) of the credit union asked you to develop a prototype application to demo in the next credit union assembly.
+I have decided to start a FinTech consultancy firm, and I want to make a difference by working on projects with high social impact in local communities. I just won your first contract to help one of the biggest credit unions in your area. They want to create a tool that helps their members enhance their financial health. The Chief Technology Officer (CTO) of the credit union asked me to develop a prototype application to demo in the next credit union assembly.
 
 The credit union board wants to allow the union's members to assess their monthly personal finances, and also be able to forecast a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds.
 
@@ -28,7 +26,7 @@ The documentation for these APIs can be found via the following links:
 * [Free Crypto API Documentation](https://alternative.me/crypto/api/)
 
 * [AlpacaDOCS](https://alpaca.markets/docs/)
----
+
 
 ## Instructions
 
@@ -110,9 +108,9 @@ Follow the steps outlined in the starter notebook to complete the following:
 
 3. Plot the simulation results and the probability distribution/confidence intervals.
 
-    ![monte carlo](Images/monte-carlo.png)
+    * monte carlo
         
-    ![histogram](Images/histogram.png)
+    * histogram
 
 #### Retirement Analysis
 
